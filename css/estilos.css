@@ -21,7 +21,7 @@ body {
 }
 
 #cabecera {
-  background: red;
+  background: blue;
   color: white;
   height: 40px;
   width: auto;
@@ -60,7 +60,7 @@ body {
 
 #cabecera2 {
   background: rgb(70, 173, 233);
-  color: red;
+  color: blue;
   height: 40px;
   width: auto;
   display: flex;
